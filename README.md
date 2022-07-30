@@ -43,4 +43,6 @@ Identifying current's organization SIEM (Kibana) and configuring alerts as well 
   - HTTP Request Size Monitor (threshold: documents over 3500 bytes within a minute)
   - CPU Usage Monitor (threshold: CPU usage over fifty percent within 5 minutes)
   
-  **
+  **IP Monitoring**
+  
+  - 192.168.1.1/24
