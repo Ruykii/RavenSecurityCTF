@@ -21,9 +21,9 @@ The task was to find the four flag. Below will be the scope of IP as well as met
 
   **Scope of IP**:
   - 192.168.1.1/24
-  
-  -Target 1: 192.168.1.110
  
+  -Target 1: 192.168.1.110
+
   -Target 2: 192.168.1.115
   
   Methodology 
