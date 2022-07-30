@@ -25,6 +25,7 @@ $ nmap -Pn -sV -p 80,111,139,445 192.168.1.110
 
 This scan identifies the services below as potential points of entry:
 - Target 1
+
 ![](https://cdn.discordapp.com/attachments/1002356492344770703/1002356508425728180/unknown.png)
 
 
