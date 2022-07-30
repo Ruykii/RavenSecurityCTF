@@ -35,4 +35,12 @@ The task was to find the four flag. Below will be the scope of IP as well as met
 
 ## Defensive
 
-Identifying current's organization SIEM (Kibana) and configuring alerts as well as maintenance. Further information is [here](https://github.com/Ruykii/RavenSecurityCTF/blob/main/Defensive.md)
+Identifying current's organization SIEM (Kibana) and configuring alerts as well as maintenance. More information located [here](https://github.com/Ruykii/RavenSecurityCTF/blob/main/Defensive.md).
+
+  **Alerts*
+  
+  - Excessive HTTP Error (threshold: more than 400 http code within 5 minutes)
+  - HTTP Request Size Monitor (threshold: documents over 3500 bytes within a minute)
+  - CPU Usage Monitor (threshold: CPU usage over fifty percent within 5 minutes)
+  
+  **
