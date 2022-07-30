@@ -7,4 +7,7 @@
 
 A CTF for Ravensecurity a older box to display skills of penetration testing and using the capstone and elk in order to monitor and send alert as proof of concept. 
 
+## Table of Content
 
+**- [Offensive](https://github.com/Ruykii/MSUBootcamp2022/tree/main/Ansible](https://github.com/Ruykii/RavenSecurityCTF/blob/main/Offensive.md))**
+**- [Defensive](https://github.com/Ruykii/RavenSecurityCTF/blob/main/Defensive.md)**
