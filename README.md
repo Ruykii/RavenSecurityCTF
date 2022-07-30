@@ -9,6 +9,10 @@ A CTF for Ravensecurity a older box to display skills of penetration testing and
 
 ## Table of Content
 
-  **- [Offensive](https://github.com/Ruykii/MSUBootcamp2022/tree/main/Ansible](https://github.com/Ruykii/RavenSecurityCTF/blob/main/Offensive.md))**
+  - [Offensive](https://github.com/Ruykii/MSUBootcamp2022/tree/main/Ansible](https://github.com/Ruykii/RavenSecurityCTF/blob/main/Offensive.md))**
   
-  **- [Defensive](https://github.com/Ruykii/RavenSecurityCTF/blob/main/Defensive.md)**
+  - [Defensive](https://github.com/Ruykii/RavenSecurityCTF/blob/main/Defensive.md)**
+  
+  - [Network Analysis]( )
+ 
+## Offensive
