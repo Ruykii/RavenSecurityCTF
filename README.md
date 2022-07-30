@@ -18,3 +18,5 @@ A CTF for Ravensecurity a older box to display skills of penetration testing and
 ## Offensive
 
 The task was to find the four flag. Below will be the scope of IP as well as methodology, further information is [here](https://github.com/Ruykii/RavenSecurityCTF/blob/main/Offensive.md).
+
+  -**Scope of IP**
