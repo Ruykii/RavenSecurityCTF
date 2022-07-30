@@ -41,7 +41,7 @@ CVE (common vulnerability and exposure) score explained:
 | High     | 7.0-8.9      |
 | Critical | 9.0-10.0     | 
 
-| CVE ID        | Score      |                  Vulerability Description                                            |
+| CVE ID        | Score      |                  Vulnerability Description                                            |
 |---------------|------------|--------------------------------------------------------------------------------------|
 | CVE-2001-0572 | 7.5        | Due to weak password for their user account, easy access by SSH                      |
 | CVE-2021-24585| 6.5        | Outputing hashed passwords, username, and email address using wpscan                 |
