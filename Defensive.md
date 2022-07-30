@@ -1,6 +1,6 @@
 # Blue Team: Summary of Operations
 <p align="center">
-  <img width="400" height="600" src="https://cdn.discordapp.com/attachments/1002356492344770703/1002995836755640450/unknown.png">
+  <img width="550" height="600" src="https://cdn.discordapp.com/attachments/1002356492344770703/1002995836755640450/unknown.png">
 </p>
 ## Table of Contents
 - Network Topology
