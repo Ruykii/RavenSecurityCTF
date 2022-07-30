@@ -55,6 +55,7 @@ CVE (common vulnerability and exposure) score explained:
 
 The Red Team was able to penetrate `Target 1` and retrieve the following confidential data:
 - Target 1
+- 'flag1.txt':
   ![](https://cdn.discordapp.com/attachments/1002356492344770703/1002367792793800795/unknown.png)
     - **Exploit Used**
       -  Used grep to find the location of flag. 
@@ -63,6 +64,7 @@ The Red Team was able to penetrate `Target 1` and retrieve the following confide
    ![](https://cdn.discordapp.com/attachments/1002356492344770703/1002368292050178108/unknown.png)   
 
   - `flag2.txt`: 
+  
    ![](https://cdn.discordapp.com/attachments/1002356492344770703/1002368657487298560/unknown.png)
     - **Exploit Used**
       - We identified the flag by using the "find" command in order to find it
@@ -70,6 +72,7 @@ The Red Team was able to penetrate `Target 1` and retrieve the following confide
         find -name "*flag*"
        '''
    - 'flag3':
+   
    ![](https://cdn.discordapp.com/attachments/1002356492344770703/1002369447786455090/unknown.png) 
     - **Exploit Used** 
        - We identified the password by gaining access to the hash password from Michael's wordpress config file. Password: "R@v3nSecurity" 
@@ -85,6 +88,7 @@ The Red Team was able to penetrate `Target 1` and retrieve the following confide
        '''
        Using rockyou wordlist and the name of the hash file is "wp.txt". Password for Steven is "pink84"
    - 'flag 4.txt'
+   
    ![](https://cdn.discordapp.com/attachments/1002356492344770703/1002382653045080085/unknown.png)
     - **Exploit Used**
        - Using sudo -l we were able to see that there is access to python 
