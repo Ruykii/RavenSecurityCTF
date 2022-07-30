@@ -35,4 +35,4 @@ The task was to find the four flag. Below will be the scope of IP as well as met
 
 ## Defensive
 
-Identifying 
+Identifying current's organization SIEM (Kibana) and configuring alerts as well as maintenance. Further information is [here](https://github.com/Ruykii/RavenSecurityCTF/blob/main/Defensive.md)
