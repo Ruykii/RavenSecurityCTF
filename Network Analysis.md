@@ -8,6 +8,7 @@ At least two users on the network have been wasting time on YouTube. Usually, IT
     - Their IP addresses are somewhere in the range 10.6.12.0/24.
 
 1. Domain name of the user's custom site. 
+
     ![](https://media.discordapp.net/attachments/1002356492344770703/1003001499049279488/unknown.png)
 
     **Frank-n-Ted-DC.frank-n-ted.com**
