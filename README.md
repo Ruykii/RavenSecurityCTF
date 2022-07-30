@@ -13,7 +13,7 @@ A CTF for Ravensecurity a older box to display skills of penetration testing and
   
   - [Defensive](https://github.com/Ruykii/RavenSecurityCTF/blob/main/Defensive.md)
   
-  - [Network Analysis]( )
+  - [Network Analysis](https://github.com/Ruykii/RavenSecurityCTF/blob/main/Network%20Analysis.md)
  
 ## Offensive
 
@@ -46,3 +46,9 @@ Identifying current's organization SIEM (Kibana) and configuring alerts as well 
   **IP Monitoring**
   
   - 192.168.1.1/24
+## Network Analysis
+
+A example of network analyzing using Wireshark of a infected scene between Window's user. All explanation provided [here](https://github.com/Ruykii/RavenSecurityCTF/blob/main/Network%20Analysis.md).
+
+
+**Thank you for reading and for your time**
