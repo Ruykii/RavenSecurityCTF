@@ -62,7 +62,7 @@ Alert 2 is implemented as follows:
 #### CPU Usage Monitor 
 Alert 3 is implemented as follows:
   - **Metric**: Percentage
-  - **Threshold**: Documents over 0.5 withiin 5 minutes. 
+  - **Threshold**: Documents over 0.5 within 5 minutes. 
   - **Vulnerability Mitigated**: Prevent background process or malware
   - **Reliability**: This is low efficiency due to user's usage. 
 
