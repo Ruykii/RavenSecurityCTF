@@ -56,6 +56,7 @@ CVE (common vulnerability and exposure) score explained:
 The Red Team was able to penetrate `Target 1` and retrieve the following confidential data:
 - Target 1
 - 'flag1.txt':
+
   ![](https://cdn.discordapp.com/attachments/1002356492344770703/1002367792793800795/unknown.png)
     - **Exploit Used**
       -  Used grep to find the location of flag. 
